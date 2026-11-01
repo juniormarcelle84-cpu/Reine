@@ -1,0 +1,6 @@
+{
+  "name": "REINÉBÈNE",
+  "description": "Restaurant de cuisine africaine & caribéenne à Lomé, Togo",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
